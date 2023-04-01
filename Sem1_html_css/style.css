@@ -1,0 +1,27 @@
+h1{
+    color: red;
+}
+
+h2{
+    color: orange;
+}
+a{
+    color: rgb(5, 177, 5);
+}
+html{
+    background-color: rgb(116, 116, 231);
+}
+img{
+    width: 200px;
+    margin-left: 50px;
+}
+.big_text{
+    font-size: 1.5rem;
+}
+ul {
+    list-style-type: square; /* Квадратные маркеры */
+}
+a:hover{
+   color: red;
+   outline: dotted green;
+}
